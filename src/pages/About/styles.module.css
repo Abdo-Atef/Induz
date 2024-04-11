@@ -1,0 +1,17 @@
+.headerSection {
+  background-image: linear-gradient(to right, rgb(12 6 3 / 75%), rgb(12 3 0 / 66%)), url('../../assets/Home_Imgs/g1.jpg');
+  width: 100%;
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+}
+
+.moreInfo {
+  background-image: linear-gradient(to right, rgb(12 6 3 / 75%), rgb(12 3 0 / 66%)), url('../../assets/Home_Imgs/banner2.jpg');
+  width: 100%;
+  min-height: 300px;
+  background-attachment: fixed;
+  background-position: top;
+  background-size: cover;
+}

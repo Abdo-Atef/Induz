@@ -1,0 +1,26 @@
+.headerSection {
+  background-image: linear-gradient(to right, rgb(12 6 3 / 75%), rgb(12 3 0 / 66%)), url(../../assets/Home_Imgs/banner.jpg);
+  width: 100%;
+  min-height: 100vh;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@media (max-width:767px) {
+  .headerSection {
+    min-height: 400px;
+  }
+}
+
+.content{
+  max-width: 800px;
+}
+
+.moreInfo{
+  background-image: linear-gradient(to right, rgb(12 6 3 / 75%), rgb(12 3 0 / 66%)), url(../../assets/Home_Imgs/banner2.jpg);
+  width: 100%;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+}
